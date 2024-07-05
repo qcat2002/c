@@ -12,6 +12,8 @@ using namespace std;
 
 int main()
 {
+    int a = 10;
+    cout << "a = " << a << endl;
     const int total_month = 12;
     cout << "一周一共有：" << Day << "天" << endl;
     cout << "一年一共有：" << total_month << "月" << endl;
